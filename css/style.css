@@ -1,0 +1,23 @@
+.rounded-circle {
+    display: inline-block;
+    background-color: rgb(246, 237, 237);
+    opacity: 0, 8
+}
+
+h4 {
+    color: rgba(139, 127, 127, 0.89);
+    margin-top: 50px;
+}
+
+p {
+    color: rgb(150, 141, 141)
+}
+
+
+hr {
+    width: 35%;
+}
+
+.fa {
+    color: orange
+}
